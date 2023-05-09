@@ -8,11 +8,11 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.osttra.resource</groupId>
-    <artifactId>osttra-seat-booking</artifactId>
+    <groupId>com.personal.resource</groupId>
+    <artifactId>personal-seat-booking</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>osttra-seat-booking</name>
-    <description>Osttra Seat Booking Application</description>
+    <name>personal-seat-booking</name>
+    <description>Personal Seat Booking Application</description>
 
     <properties>
         <java.version>1.8</java.version>
